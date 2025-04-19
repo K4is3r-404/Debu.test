@@ -1,1 +1,1 @@
-Choices have consequences!
+print("the real slim shady")
